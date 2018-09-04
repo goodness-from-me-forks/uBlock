@@ -250,6 +250,15 @@
 		],
 		"supportURL": "https://forums.lanik.us/"
 	},
+	"adguard-social": {
+		"content": "filters",
+		"group": "social",
+		"off": true,
+		"title": "AdGuard Social Media filter",
+		"contentURL": "https://filters.adtidy.org/extension/ublock/filters/4.txt",
+		"supportURL": "https://github.com/AdguardTeam/AdguardFilters#adguard-filters",
+		"instructionURL": "https://kb.adguard.com/en/general/adguard-ad-filters"
+	},
 	"dpollock-0": {
 		"content": "filters",
 		"group": "multipurpose",
